@@ -1,7 +1,6 @@
  # Number Guessing Game
 
-     A simple yet engaging number guessing game built with
-Python and Tkinter.
+     A simple yet engaging number guessing game built with Python and Tkinter.
 
 **Game Overview**
 
@@ -13,15 +12,13 @@ Python and Tkinter.
 
 **Features**
 
-    * Random Number Generation : A new number is generated for
-each game.
+    * Random Number Generation : A new number is generated for each game.
 
     * Attempt Tracking : Keep track of your remaining attempts.
 
     * Hint System : Get feedback on your guesses.
 
-    * Game Restart : Automatically restart the game after winning
-or running out of attempts.
+    * Game Restart : Automatically restart the game after winning or running out of attempts.
 
 
 **Usage**
