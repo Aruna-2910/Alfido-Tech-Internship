@@ -18,5 +18,5 @@
          **H:** View calculation history
          **Q:** Quit the application
    **History Management**   All calculations are automatically saved in 'history.txt'
-   **Compact and Professional GUI:**
+   **Compact and Professional GUI:***
           Optimized for all screen sizes      
