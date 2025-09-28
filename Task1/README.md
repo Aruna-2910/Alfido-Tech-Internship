@@ -1,13 +1,11 @@
 # Calculator Project
 
-      A simple yet functional GUI calculator built with Python and Tkinter.
-This project demonstrates basic arithmetic operations,calculation history,and 
-a user-friendly interface.
+      A simple yet functional GUI calculator built with Python and Tkinter.This project demonstrates
+      basic arithmetic operations,calculation history,and a user-friendly interface.
 
 **Features**
  
-  * Basic Arithmetic Operations: Perform addition,subtraction,multiplication,
-and division. 
+  * Basic Arithmetic Operations: Perform addition,subtraction,multiplication,and division. 
 
   * Calculation History : Save and view your calculation history.
 
@@ -33,5 +31,6 @@ and division.
   4. Press "H" to view calculation history.
 
   5. Press "C" to clear the input field.
+
 
   6. Press "Q" to exit the application.
