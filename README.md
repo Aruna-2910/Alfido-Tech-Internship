@@ -1,6 +1,7 @@
 # Calculator Project
 
-      A simple yet functional GUI calculator built with Python and Tkinter.This project demonstrates basic arithmetic operations,calculation history,and a user-friendly interface.
+      A simple yet functional GUI calculator built with Python and Tkinter.This project demonstrates 
+      basic arithmetic operations,calculation history,and a user-friendly interface.
 
 **Features**
  
